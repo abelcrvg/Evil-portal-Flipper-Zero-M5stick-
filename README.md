@@ -20,12 +20,6 @@ Um Evil Portal é uma página de captura utilizada em testes de segurança, gera
 
 > **Este projeto é apenas para fins educacionais e de teste em ambientes controlados. Não utilize para práticas ilícitas. O uso inadequado é de total responsabilidade do usuário.**
 
-## Como contribuir
+## Como usar
 
-1. Faça um fork do repositório
-2. Crie uma branch para sua feature (`git checkout -b feature/nome-da-feature`)
-3. Faça o commit das suas alterações (`git commit -am 'Adiciona nova feature'`)
-4. Envie para o repositório remoto (`git push origin feature/nome-da-feature`)
-5. Abra um Pull Request
-
----
+Para dispositivos m5stick, é recomendado o uso do Bruce, pois tem a opção webui, que você consegue enviar o arquivo HTML para que seja hospedado e utilizado no evil portal, sem a necessidade de um cartão SD.
